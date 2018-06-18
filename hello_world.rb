@@ -1,1 +1,3 @@
-puts "Hello World!"
+greeting= "Hello World!".swapcase
+
+puts greeting
