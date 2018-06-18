@@ -1,0 +1,6 @@
+"kwk"
+"mall"
+"cake"
+"shirt"
+"shorts"
+puts "Hello World!"
